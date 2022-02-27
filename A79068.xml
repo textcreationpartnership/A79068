@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties resolution concerning the establishment of religion and church-government. Also, His Majesties speech to the gentry of the county of York, attending His Majesty at the city of York, on Thursday the 12. of May. 1642. : Whereunto is annexed, the declaration of both Houses of Parliament, May the 12, 1642 : Ordered by the Lords and Commons assembled in Parliament, that this declaration bee forthwith published in print ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79068</idno>
+            <idno type="STC">Wing C2751A</idno>
+            <idno type="STC">ESTC R171194</idno>
+            <idno type="EEBO-CITATION">45789220</idno>
+            <idno type="OCLC">ocm 45789220</idno>
+            <idno type="VID">172532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172532)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2637:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties resolution concerning the establishment of religion and church-government. Also, His Majesties speech to the gentry of the county of York, attending His Majesty at the city of York, on Thursday the 12. of May. 1642. : Whereunto is annexed, the declaration of both Houses of Parliament, May the 12, 1642 : Ordered by the Lords and Commons assembled in Parliament, that this declaration bee forthwith published in print ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament. Declaration of both Houses of Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Tomson and A. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: May the 16, 1642.</note>
+                  <note>"Printed at Yorke, and now reprinted at London ..."--Colophon.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Yorkshire (England) --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172532:1" rendition="simple:additions"/>
+            <p>
+               <hi>May the</hi> 16. 1642.</p>
+            <p>HIS MAIESTIES RESOLVTION CONCERNING The Eſtabliſhment of Religion and Church-government.</p>
+            <p>ALSO, HIS MAJESTIES SPEECH TO THE GENTRY of the County of <hi>York,</hi> Attending His Majeſty at the City of <hi>York,</hi> on Thurſday the 12. of May. 1642.</p>
+            <p>Whereunto is annexed, The Declaration of both Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment, May the</hi> 12. 1642.</p>
+            <p>Ordered by the Lords and Commons aſsembled in Parliament, that this Declaration bee forthwith publiſhed in Print.</p>
+            <p>John Brown Cler Parliament.</p>
+            <p>Printed for <hi>I.</hi> Tomſon, and <hi>A. Coe,</hi> 1642.</p>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:172532:2"/>
+            <head>Die Jovit <hi>12.</hi> May, <hi>1642.</hi>
+            </head>
+            <head type="sub">The Declaration of both Houſes of <hi>Parliament.</hi>
+            </head>
+            <p>THe Lords and Commons aſſembled in Parliament do declare, That they are reſolv'd to maintain thoſe Lords and Gentlemen, Com<g ref="char:EOLhyphen"/>mittees of both Houſes of Parliament reſiding at York, in thoſe things they have done, and ſhall further do in obedience of their Commands for the preſerving the peace of the Kingdom.</p>
+            <p>The Lords and Commons do Declare, That if any perſon whatſoe<g ref="char:EOLhyphen"/>ver ſhall Arreſt, or Impriſon the perſons of thoſe Lords and Gentlemen, or any of them, or any other member of either Houſe, that are, or ſhal be imployed in the ſervice of both Houſes of Parliament; or ſhall offer violence to them, or any of them, for doing of any thing in purſuance of their Commends, or the Inſtructions of both Houſes, given unto them, ſhall be held Diſturbers of the proceedings of Parliament, and publike enemies of the State. And that all perſons are bound by their Proteſta<g ref="char:EOLhyphen"/>tion, to endeavour to bring them to condign puniſhment.</p>
+            <p>The Lords and Commons do declare, That thoſe of the City of <hi>London</hi> and all other parſons that have obaied the Ordinance for the <hi>Militia;</hi> and done any thing in execution thereof, Have done it according to the Law of the Land, and in purſuance of what they were commanded by both Houſes of Parliament, and for the defence and ſafety of the King and Kingdom, And ſhall have the aſſiſtance of both Houſes of Parl ament, againſt any that ſhall preſume to queſtion them, for yeil<g ref="char:EOLhyphen"/>ding their obedience to the ſaid command in this neceſſary and important ſervice; And that whoſoever ſhall obey the ſaid Ordinance for the time to come, ſhall receive the ſame approbation and affiſtance from both Houſes of Parliament.</p>
+            <p>Ordered by the Lordes and Commons aſſembled in Parl ament, That the aboveſaid Declaration ſhall be forthwith Printed and Publiſhed,</p>
+            <closer>
+               <signed>John Brown Cler. Perl.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172532:2"/>
+            <head>HIS MAIESTIES <hi>RESOLUTION.</hi>
+            </head>
+            <head type="sub">Concerning the Laws of this Realm, and the Proteſtant Profeſſion.</head>
+            <p>THe humble Deſires of the Sub<g ref="char:EOLhyphen"/>ject have bin very graciouſly en<g ref="char:EOLhyphen"/>tertained and welcommed, and the Petitioners themſelves have depart<g ref="char:EOLhyphen"/>ed ſatisfied and contented.</p>
+            <p>But as yet the ſick Church hath not bin purged from her malignant diſtem<g ref="char:EOLhyphen"/>pers, neither hath ſhe as yet taken an
+<pb facs="tcp:172532:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172532:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172532:4"/>Antidote to preſerve her from the Ve<g ref="char:EOLhyphen"/>nome and poyſon of <hi>Romes</hi> malice.</p>
+            <p>Theſe manifold Petitions, with the earneſt ſupplications of his Majeſties moſt loyall Subjects, did cauſe a deep im<g ref="char:EOLhyphen"/>preſſion in his Royal conſideration, and alſo His Majeſty having rightly &amp; con<g ref="char:EOLhyphen"/>ſideratly weighed the diſquiet of His Subjects, occaſioned by ſo weighty a cauſe, knowing that <hi>Salus populi</hi> is <hi>Supre<g ref="char:EOLhyphen"/>ma Lex,</hi> the ſafety and welfare of the Subject is and ought to be the Princes greateſt care, hath bin graciouſly pleaſed to Declare himſelf, and publiſh his in<g ref="char:EOLhyphen"/>tention concerning the Government of the Church.</p>
+            <p>His Majeſty hath formerly for the ſatisfaction of the ſubject, <hi>Declared him<g ref="char:EOLhyphen"/>ſelf to be a true maintainer of the true and ancient Proteſtant Religion, and hath denyed all coherence with the Church of Rome.</hi>
+            </p>
+            <p>
+               <hi>And hee hath alſo now of late, to give a full and plenary ſatisfaction unto all, reſol<g ref="char:EOLhyphen"/>ved upon a general Reformation. And to this purpoſe hath conſented, that the main matters
+<pb facs="tcp:172532:4"/>of difference which have occaſioned all theſe diſtractions ſhall be framed, and diſcuſſed by a number of grave, wiſe, and Religious Di<g ref="char:EOLhyphen"/>vines, which ſhall be thought fit by the Houſe of Parliament, every County electing two for this ſo great and weighty a buſineſse, that ſo all things being according to Gods true word, ſcand and examined, by the iudicious and re<g ref="char:EOLhyphen"/>ligious Judgments of thoſe worthy perſons, the truth may appear, light and inſtructions may be given unto Authority, and by their power and uniformity of Government and worſhip, agreeable to Gods Word, may be ſti<g ref="char:EOLhyphen"/>led in the Church.</hi>
+            </p>
+            <p>And his Majeſty did further declare, that it was always his care and deſire, that all offenſive and unneceſſary ad<g ref="char:EOLhyphen"/>juncts whatſoever might be removed and taken away, that ſo the tender Con<g ref="char:EOLhyphen"/>ſcience might not apprehend any cauſe to ſlight and neglect the obeſervation of Religious duties</p>
+            <p>The enemies a gainſt this <hi>Kingdome</hi> occaſioned by the discontented ſpirits of the Catholick faction, have at laſt wa<g ref="char:EOLhyphen"/>kened
+<pb facs="tcp:172532:5"/>his confident thoughts, and he now moſt ſeaſonably conceives the ha<g ref="char:EOLhyphen"/>zard which was like by that means to ſeize the ſecurity of the Kingdom.</p>
+            <p>Wherfore the better to effect and per<g ref="char:EOLhyphen"/>fect his ſo well begun <hi>Reſolution,</hi> hath given ſtrict and ſevere apprehenſion of all Catholiques, for their diſarming, and unleſſe they will take the <hi>Oath of Supre<g ref="char:EOLhyphen"/>macie</hi> for their impriſonment.</p>
+            <p>Neither do his waking and vigilant cares reſt here, but out of his tender re<g ref="char:EOLhyphen"/>ſpect and affection to his Subjects, will with all ſpeed prevent the growth of the inſuing dangers, which muſt ſucceed the increaſe of Papiſts in this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Wherupon, being moved with the Conſideration of thoſe inſuing Evils, he hath taken Order for the expulſion of all Prieſts, and Jeſuits whatſoever from out of His Majeſties Dominions, and if any ſhall be taken whoſe contumacious ſpirit ſhall dare to oppoſe, and con<g ref="char:EOLhyphen"/>tempt this His Majeſties moſt Royall
+<pb facs="tcp:172532:5"/>Authority, <hi>That then His Majeſty will leave them to the Juſtice of the Law, and will deny unto them the expreſſion of any favour, but what the Law in Juſtice and Equity ſhall think their contumacious offence may deſerve.</hi>
+            </p>
+            <p>They ſhall not now as in former times rely and depend upon His Majeſties Clemency, and ſo take ad<g ref="char:EOLhyphen"/>vantage of His Majeſties mournfull diſpoſition, to bail and maintain their Hereticall and unjuſtifiable courſes.</p>
+            <p>He now perceives that his indulgency, their Errours, and his tenderneſſe of their lives and p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſons, unwil<g ref="char:EOLhyphen"/>ing to merit the Name of a ſevere Prince, hath very much encouraged them, whereby they have taken more then civill Liberty to ſeduce his loving people, and ſubvert both the Laws and Liberty of this Kingdom.</p>
+            <p>Wherfore he is now reſolved, that Juſtice ſhall take its free and uncontradicted courſe againſt them, and that all favour and clemency ſhall be as free-from them, as their practiſes are from Juſtice and Con<g ref="char:EOLhyphen"/>ſcience.</p>
+         </div>
+         <div type="speech">
+            <head>His Majeſties Speech to the Gentry of the Countie of YORK, attending his Majeſtie at the Citie of YORK, On Thurſday the 12. of <hi>May,</hi> 1642.</head>
+            <p>
+               <hi>GEntlemen,</hi> I have cauſe of altering what I meant to ſay when I gave out the ſummons for this dayes appearance, I little thought of theſe Meſ<g ref="char:EOLhyphen"/>ſengers, or of ſuch a Meſſage as they brought, the which, becauſe it confirms me in what I intend to ſpeak, and that I deſire you ſhould be truly informed of all paſſages between me and the Parliament, you ſhall here read, Firſt, my Anſwer to the Declaration of both Houſes concerning <hi>Hull,</hi> the Anſwer
+<pb facs="tcp:172532:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172532:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172532:7"/>of the Parliament to my two Meſſages concerning <hi>Hull,</hi> together with my Reply to the ſame, and my Meſſage to both Houſes, declaring the Reaſons why I refuſed to paſſe the Bill concerning the <hi>Militia.</hi>
+            </p>
+            <div type="part">
+               <head>All which being read, his Majeſtie proceeded.</head>
+               <p>I Will make no paraphraſes upon what ye have heard, it more befitting a Lawyer then a King, only this obſervation, ſince Yreaſon is countenanced ſo neer me, it is time to look to my ſafety: I avow it was part of my wonder that men (whom I thought heretofore diſcreet, and moderate) ſhould have undertaken this imployment, and that ſince they came (I having delivered them the Anſwer: you have heard, and commanded them to return perſo<g ref="char:EOLhyphen"/>nally with it to the Parliament) ſhould have flatly diſobeyed me upon pre<g ref="char:EOLunhyphen"/>tence of the Parliaments command. My end in telling you this is, is to warn you of them, for ſince theſe men have brought me ſuch a Meſſage, and diſo<g ref="char:EOLhyphen"/>beyed ſo lawfull a Command. I will not ſay what their intent of ſtaying here is, only. I bid you take heed, not knowing what doctrine of diſobedience they may preach to you, under colour of obeying the Parliament. Hitherto I have found and kept you quiet, the enjoying of which was a chief cauſe of my comming hither (Tumults and diſorders having made me leave the South) &amp; not to make this a ſeat of War, as malice would (but I hope in vain) make you beleeve; Now if diſturbances do come, I know whom I have reaſon to ſuſ<g ref="char:EOLhyphen"/>pect. To be ſhort, you ſee that my Magazine is going to be taken from mee (being my own proper goods) directly againſt my will; The Militia (againſt Law and my conſent) is going to be put in execution. And laſtly, Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>thams</hi> Treaſon is countenanced; All this conſidered, none can blame mee to apprehend dangers. Therfore I have thought fit (upon theſe reall grounds) to tell you, That I am reſolved to have a Guard, the Parliament having had one all this while upon imaginary jealouſies, only to ſecure my perſon. In which I deſire your concurrence and aſſiſtance, and that I may be able to protect you, the Laws, and the true Proteſtant profeſſion from any affront or injury that may be offered, which I mean to maintain my ſelf without charge to the Countrey, intending no longer to keep them on foot, then I ſhall be ſecured of my juſt Apprehenſions by having ſatisfaction in the particulars before mentioned.</p>
+               <p>
+                  <hi>Printed at</hi> Yorke, <hi>and now reprinted at</hi> London <hi>for</hi> Andrew Coe. 1642.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:172532:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
